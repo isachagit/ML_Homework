@@ -154,3 +154,4 @@ pip freeze > requirements.txt
 
 --- 
 **Файлы шаблона:** этот README и ноутбук `hw01_setup_tools.ipynb`.
+**
